@@ -19,8 +19,11 @@
     
     @include('partials.navbar')
 
-    <div class="container-fluid">
+    <div class="container-fluid mt-5">
         @yield('container')
+        <footer>
+          <p class="mt-5 text-muted text-center" style="padding-top:50px">@HalloBackpacker.id 2022</p>
+        </footer>
     </div>
     
 

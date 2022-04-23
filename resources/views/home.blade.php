@@ -2,7 +2,7 @@
 
 @section('container')
 
-<div class="container-fluid">
+<div class="container">
     <div class="row align-items-center">
         <div class="col-lg-6">
             <h1 class="display-5 fw-bold lh-1 mb-3">Helo Backpackers, enjoy in our website</h1>

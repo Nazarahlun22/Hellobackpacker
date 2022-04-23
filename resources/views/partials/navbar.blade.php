@@ -1,13 +1,4 @@
 {{-- Navbar --}}
-<div class="container-fluid" style="background-image:url('/img/batik.png');margin-bottom:-16px;height:235px">
-  <section class="jumbotron text-center">
-    <img src="/img/Malang.png" alt="Logo Kab.Malang" class="img ban-img img-fluid mt-3" style="height: 140px;">
-    <h3 style="font-weight: 700; color:#055160;margin-top:-10px">Sistem Informasi Desa Purwodadi</h3>
-    <p class="fs-6" style="color:#055160;margin-top:-10px;font-weight:500">Kec. Tirtoyudo - Kab. Malang - Prov. Jawa Timur</p>
-  </section>
-</div>
-
-{{-- Jumbotron x Navbar --}}
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-info">
   <div class="container">
